@@ -16,7 +16,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
 <table>
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/YOUR_PHOTO_1.jpg" width="100%" alt="Iran Astro 1"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="100%" alt="Iran Astro 1"/>
     </td>
     <td width="60%">
       <h3>📍 Location Name, Iran</h3>
@@ -25,7 +25,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/YOUR_PHOTO_2.jpg" width="100%" alt="Iran Astro 2"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="100%" alt="Iran Astro 2"/>
     </td>
     <td width="60%">
       <h3>📍 Location Name, Iran</h3>
