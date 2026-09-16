@@ -16,25 +16,26 @@ I love capturing the night sky from my home country. Here are some of my favorit
 <table>
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="100%" alt="Iran Astro 1"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="100%" alt="Persepolis"/>
     </td>
     <td width="60%">
-      <h3>📍 Location Name, Iran</h3>
-      <p>Description of the shot and camera used.</p>
+      <h3> Persepolis (Takht-e Jamshid), Fars Province</h3>
+      <p>Ancient ruins under the stars near Marvdasht. Taken with [YOUR_CAMERA_MODEL].</p>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="100%" alt="Iran Astro 2"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="100%" alt="Tehran Milad Tower"/>
     </td>
     <td width="60%">
-      <h3>📍 Location Name, Iran</h3>
-      <p>Description of the shot and camera used.</p>
+      <h3>📍 Tehran Highway & Milad Tower</h3>
+      <p>The capital city lights and Milad Tower at night. Taken with [YOUR_CAMERA_MODEL].</p>
     </td>
   </tr>
 </table>
 
 <br>
+
 
 
 # 📊 GitHub Stats:
