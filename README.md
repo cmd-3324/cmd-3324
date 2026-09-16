@@ -13,30 +13,37 @@ I’m currently working on building a cross-platform desktop app with Python and
 
 I love capturing the night sky from my home country. Here are some of my favorite shots taken across Iran:
 
-<table>
+<table width="600">
   <tr>
-    <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="100%" alt="Persepolis"/>
+    <td width="250" valign="top">
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="250" height="250" alt="Persepolis"/>
     </td>
-    <td width="60%">
-      <h3> Persepolis (Takht-e Jamshid), Fars Province</h3>
-      <p>Ancient ruins under the stars near Marvdasht. Taken with [YOUR_CAMERA_MODEL].</p>
+    <td valign="top">
+      <h3>📍 Persepolis (Takht-e Jamshid), Fars Province</h3>
+      <p>Ancient ruins under the stars near Marvdasht. Taken with Canon 1300D.</p>
     </td>
   </tr>
   <tr>
-    <td width="40%">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="100%" alt="Tehran Milad Tower"/>
+    <td width="250" valign="top">
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="250" height="250" alt="Tehran Milad Tower"/>
     </td>
-    <td width="60%">
+    <td valign="top">
       <h3>📍 Tehran Highway & Milad Tower</h3>
-      <p>The capital city lights and Milad Tower at night. Taken with [YOUR_CAMERA_MODEL].</p>
+      <p>The capital city lights and Milad Tower at night. Taken with Vivo X50 Pro.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="250" valign="top">
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/wq.webp" width="250" height="250" alt="New Location"/>
+    </td>
+    <td valign="top">
+      <h3>📍 [New Location Name], Iran</h3>
+      <p>[Description of the shot]. Taken with [Camera Model].</p>
     </td>
   </tr>
 </table>
 
 <br>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=cmd-3324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
