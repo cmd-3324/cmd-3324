@@ -37,8 +37,8 @@ I love capturing the night sky from my home country. Here are some of my favorit
       <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/wq.webp" width="250" height="250" alt="New Location"/>
     </td>
     <td valign="top">
-      <h3>📍 [New Location Name], Iran</h3>
-      <p>[Description of the shot]. Taken with [Camera Model].</p>
+      <h3>📍 Kashan Bazaar (Sarā-ye Bakhshi)</h3>
+      <p>famous for its dome-like brick vaults with intricate brickwork. Taken with  Vivo X50 Pro.</p>
     </td>
   </tr>
 </table>
