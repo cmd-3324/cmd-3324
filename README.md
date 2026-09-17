@@ -16,7 +16,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
 <table width="600">
   <tr>
     <td width="250" valign="top">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ff.webp" width="250" height="250" alt="Persepolis"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/Takht.webp" width="250" height="250" alt="Persepolis"/>
     </td>
     <td valign="top">
       <h3>📍 Persepolis (Takht-e Jamshid), Fars Province</h3>
@@ -25,7 +25,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
   </tr>
   <tr>
     <td width="250" valign="top">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/ww.webp" width="250" height="250" alt="Tehran Milad Tower"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/street.webp" width="250" height="250" alt="Tehran Milad Tower"/>
     </td>
     <td valign="top">
       <h3>📍 Tehran Highway & Milad Tower</h3>
@@ -34,7 +34,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
   </tr>
   <tr>
     <td width="250" valign="top">
-      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/wq.webp" width="250" height="250" alt="New Location"/>
+      <img src="https://raw.githubusercontent.com/cmd-3324/cmd-3324/main/image/Bazar.webp" width="250" height="250" alt="New Location"/>
     </td>
     <td valign="top">
       <h3>📍 Kashan Bazaar (Sarā-ye Bakhshi)</h3>
