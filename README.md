@@ -57,7 +57,7 @@ I love capturing the night sky from my home country. Here are some of my favorit
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cmd-3324&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=cmd-3324)
 
 ---
 [![](https://komarev.com/ghpvc/?username=cmd-3324&icon=0&color=0)](https://visitcount.itsvg.in)
